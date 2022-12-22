@@ -1,5 +1,5 @@
-## image-stitcher
-# Making cruder panaromic image
+# image-stitcher
+## Making crude panaromic image
 
 
 !pip install opencv-python !pip install imutils !pip install numpy
